@@ -1,4 +1,4 @@
- <h1 align="center"><b>✨Lonely King Bot ✨</b></h1>
+ <h1 align="center"><b>✨Kiara Bot ✨</b></h1>
 
 <h4 align="center">A Powerful, Smart And Advance Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -21,7 +21,7 @@
  That is the greatest pleasure we have !
 
 # ❤️ Support
-<a href="https://t.me/Fun_Games_Chat"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/kiara_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <a href="https://t.me/Fun_Games_Chat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
