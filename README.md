@@ -2,7 +2,7 @@
 
 <h4 align="center">A Powerful, Smart And Advance Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://telegra.ph/file/55a6ede16b82dc54a54c8.jpg?style=flat-square&logo=python&color=blue" /> </a>
+  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://telegra.ph/file/84383fb5bf7cabcbb6e0f.jpg?style=flat-square&logo=python&color=blue" /> </a>
   <a href="https://github.com/Kdifamily/thanimaiclone/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
@@ -21,21 +21,21 @@
  That is the greatest pleasure we have !
 
 # ❤️ Support
-<a href="https://t.me/thanimaibots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Fun_Games_Chat"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/thanimaisupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Fun_Games_Chat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
  
 # Special Credits
 - MASHAROBOT
 
 ### ✪ Owners
-- [🔥 TheTelegrampro🔥](https://t.me/TheTelegrampro) » [GitHub](https://github.com/proTamizhan) (Bot Founder)
+- [🔥 Love Birds🔥](https://t.me/Fun_Games_Chat) » [GitHub](https://github.com/Anish-ai) (Bot Founder)
 
 
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/proTamizhan/thanimaibot">
+        <a href="https://heroku.com/deploy?template=https://github.com/Anish-ai/thanimaibot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
